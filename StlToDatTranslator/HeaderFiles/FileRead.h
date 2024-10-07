@@ -8,3 +8,4 @@ public:
     void readFile(const std::string& filename);
     ~FileRead();
 };
+
