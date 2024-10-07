@@ -1,0 +1,8 @@
+﻿  FileRead.cpp
+  FileWriter.cpp
+  Point.cpp
+  StlToDatTranslator.cpp
+  Triangle.cpp
+  Triangulation.cpp
+  Generating Code...
+  StlToDatTranslator.vcxproj -> E:\StlToDatTranslator\StlToDatTranslator\x64\Debug\StlToDatTranslator.exe
